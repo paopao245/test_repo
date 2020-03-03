@@ -7,6 +7,7 @@ public class test_class
 		System.out.println("Hello. This is a test."); 
 		System.out.print("Vitor ha estado aqui");
 		System.out.println("Interesante.No entiendo why no me salen tus updates en tu rep."); 
+		System.out.println("Auronplay es el puto amo.");
 	}
 
 }
